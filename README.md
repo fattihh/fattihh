@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-- 📫 How to reach me **fatih_ucarr45@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
